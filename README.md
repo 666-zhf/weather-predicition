@@ -1,6 +1,6 @@
 # Weather Predicition
 
-4 classes of weather have been predicted with first CNN from the scratch.
+4 classes of weather have been predicted with using CNN from the scratch.
 
   - HAZE
   - SUNNY
