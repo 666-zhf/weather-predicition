@@ -9,7 +9,8 @@
 
 # To Be Done
 
-  - Apply Transfer Learning
+  - Apply Transfer Learning via *feature extraction*
+  - Apply Transfer Learning via *fine-tuning*
 
 ### Usage
 
